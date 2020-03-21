@@ -1,5 +1,6 @@
 # SCIENTIFIC CALCULATOR
 
+This is a screenshot of the app
 
 ![alt text](calculator.JPG)
 
@@ -22,7 +23,7 @@ $ cd Scientific-Calculator
  Please let me know how I can improve. However, if you are a beginner,go ahead and clone this project and try your hands on it. Let me know if you think I can be of help to you. 
 
 ##ACKNOWLEDGEMENT
-Credit goes to my mentor [Yvette Kondoh](https://www.linkedin.com/in/yvettekondoh/). Data scientist at [SuperFluid Labs]()
+Credit goes to my mentor [Yvette Kondoh](https://www.linkedin.com/in/yvettekondoh/). A Data scientist at [SuperFluid Labs](http://www.superfluid.io/)
 
 
 ## CONTACT 
