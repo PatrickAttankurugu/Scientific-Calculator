@@ -5,7 +5,7 @@ This is a screenshot of the app
 ![alt text](calculator.JPG)
 
 ## PROJECT DESCRIPTION
-1 project, 1 developer,190 lines of code, 13 hours of programming.I had plenty of time to spare so I thought of creating this app for the  fun of it.
+I do not have a scientific calculator software on my PC. As a result I have to carry my hardware calculator with me whenever I want to study a maths related course.But I want a software version on my PC that I can launch at any time and start using. This project is intended to solve that problem for myself and the many PC users out there who would love to have a software version of the ES PLUS calculator. Your contribution to this project is highly welcome. 
 
 ## WHAT YOU NEED TO KNOW
 I used the python tkinter module. Nothing unique. Tried my best to comment out the code in a way that anyone with basic knowledge in python will understand.
